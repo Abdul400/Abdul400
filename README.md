@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdul400
+- 👋 Hi, I’m am Abdulhafidh Adan: @Abdul400.
 - 👀 I’m interested in making the world a better place via technology
 - 🌱 I’m currently learning web and mobile app development
 - 💞️ I’m looking to collaborate on different projects especially open source
